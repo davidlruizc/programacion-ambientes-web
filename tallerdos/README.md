@@ -1,24 +1,14 @@
-# README
+# Taller #2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Introducción a Ruby on Rails.
 
-Things you may want to cover:
+## Estructura de proyecto
 
-* Ruby version
+![enter image description here](<https://github.com/davidlruizc/programacion-avanzada/blob/master/thumb/Captura%20de%20Pantalla%202020-09-09%20a%20la(s)%2011.29.21%20p.%C2%A0m..png>)
 
-* System dependencies
+## Resultado
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![enter image description here](<https://github.com/davidlruizc/programacion-avanzada/blob/master/thumb/Captura%20de%20Pantalla%202020-09-09%20a%20la(s)%2011.29.28%20p.%C2%A0m..png>)
+![enter image description here](<https://github.com/davidlruizc/programacion-avanzada/blob/master/thumb/Captura%20de%20Pantalla%202020-09-09%20a%20la(s)%2011.29.35%20p.%C2%A0m..png>)
+![enter image description here](<https://github.com/davidlruizc/programacion-avanzada/blob/master/thumb/Captura%20de%20Pantalla%202020-09-09%20a%20la(s)%2011.29.47%20p.%C2%A0m..png>)
+![enter image description here](<https://github.com/davidlruizc/programacion-avanzada/blob/master/thumb/Captura%20de%20Pantalla%202020-09-09%20a%20la(s)%2011.29.52%20p.%C2%A0m..png>)
