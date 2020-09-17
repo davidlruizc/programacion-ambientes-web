@@ -1,0 +1,2 @@
+module BienvenidosHelper
+end
